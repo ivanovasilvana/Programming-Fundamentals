@@ -1,0 +1,13 @@
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\bin\Debug\netcoreapp3.1\02.Passed.exe
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\bin\Debug\netcoreapp3.1\02.Passed.deps.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\bin\Debug\netcoreapp3.1\02.Passed.runtimeconfig.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\bin\Debug\netcoreapp3.1\02.Passed.runtimeconfig.dev.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\bin\Debug\netcoreapp3.1\02.Passed.dll
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\bin\Debug\netcoreapp3.1\02.Passed.pdb
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\obj\Debug\netcoreapp3.1\02.Passed.csprojAssemblyReference.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\obj\Debug\netcoreapp3.1\02.Passed.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\obj\Debug\netcoreapp3.1\02.Passed.AssemblyInfo.cs
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\obj\Debug\netcoreapp3.1\02.Passed.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\obj\Debug\netcoreapp3.1\02.Passed.dll
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\obj\Debug\netcoreapp3.1\02.Passed.pdb
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\02.Passed\obj\Debug\netcoreapp3.1\02.Passed.genruntimeconfig.cache

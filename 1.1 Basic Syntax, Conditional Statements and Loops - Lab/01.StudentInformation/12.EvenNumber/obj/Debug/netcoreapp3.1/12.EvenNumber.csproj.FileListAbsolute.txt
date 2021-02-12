@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.exe
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.deps.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.runtimeconfig.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.runtimeconfig.dev.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.dll
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\12.EvenNumber\bin\Debug\netcoreapp3.1\12.EvenNumber.pdb
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.AssemblyInfo.cs
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.dll
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.pdb
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\12.EvenNumber\obj\Debug\netcoreapp3.1\12.EvenNumber.genruntimeconfig.cache

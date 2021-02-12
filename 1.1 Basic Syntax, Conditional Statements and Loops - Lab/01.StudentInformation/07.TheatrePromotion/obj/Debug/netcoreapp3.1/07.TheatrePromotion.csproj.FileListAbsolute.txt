@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.exe
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.deps.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.runtimeconfig.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.runtimeconfig.dev.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.dll
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.pdb
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.AssemblyInfo.cs
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.dll
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.pdb
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.genruntimeconfig.cache

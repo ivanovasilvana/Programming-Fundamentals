@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.exe
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.deps.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.runtimeconfig.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.runtimeconfig.dev.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.dll
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.pdb
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.dll
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.pdb
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.genruntimeconfig.cache

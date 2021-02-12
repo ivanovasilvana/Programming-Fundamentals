@@ -1,0 +1,13 @@
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.exe
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.deps.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.runtimeconfig.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.runtimeconfig.dev.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.dll
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.pdb
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.csprojAssemblyReference.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.AssemblyInfo.cs
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.dll
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.pdb
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.genruntimeconfig.cache

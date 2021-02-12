@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\09.SumОfOddNumbers\bin\Debug\netcoreapp3.1\09.SumОfOddNumbers.exe
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\09.SumОfOddNumbers\bin\Debug\netcoreapp3.1\09.SumОfOddNumbers.deps.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\09.SumОfOddNumbers\bin\Debug\netcoreapp3.1\09.SumОfOddNumbers.runtimeconfig.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\09.SumОfOddNumbers\bin\Debug\netcoreapp3.1\09.SumОfOddNumbers.runtimeconfig.dev.json
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\09.SumОfOddNumbers\bin\Debug\netcoreapp3.1\09.SumОfOddNumbers.dll
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\09.SumОfOddNumbers\bin\Debug\netcoreapp3.1\09.SumОfOddNumbers.pdb
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\09.SumОfOddNumbers\obj\Debug\netcoreapp3.1\09.SumОfOddNumbers.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\09.SumОfOddNumbers\obj\Debug\netcoreapp3.1\09.SumОfOddNumbers.AssemblyInfo.cs
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\09.SumОfOddNumbers\obj\Debug\netcoreapp3.1\09.SumОfOddNumbers.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\09.SumОfOddNumbers\obj\Debug\netcoreapp3.1\09.SumОfOddNumbers.dll
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\09.SumОfOddNumbers\obj\Debug\netcoreapp3.1\09.SumОfOddNumbers.pdb
+C:\СофтУни\Programming-Fundamentals\1.1 Basic Syntax, Conditional Statements and Loops - Lab\01.StudentInformation\09.SumОfOddNumbers\obj\Debug\netcoreapp3.1\09.SumОfOddNumbers.genruntimeconfig.cache
