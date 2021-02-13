@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\07.TheatrePromotion\\07.TheatrePromotion.csproj",
+      "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07.TheatrePromotion\\07.TheatrePromotion.csproj",
       "projectName": "07.TheatrePromotion",
-      "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\07.TheatrePromotion\\07.TheatrePromotion.csproj",
+      "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07.TheatrePromotion\\07.TheatrePromotion.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\07.TheatrePromotion\\obj\\",
+      "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\07.TheatrePromotion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

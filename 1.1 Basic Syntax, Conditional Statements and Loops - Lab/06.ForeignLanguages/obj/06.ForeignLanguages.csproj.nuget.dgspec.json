@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\06.ForeignLanguages\\06.ForeignLanguages.csproj": {}
+    "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\06.ForeignLanguages\\06.ForeignLanguages.csproj": {}
   },
   "projects": {
-    "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\06.ForeignLanguages\\06.ForeignLanguages.csproj": {
+    "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\06.ForeignLanguages\\06.ForeignLanguages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\06.ForeignLanguages\\06.ForeignLanguages.csproj",
+        "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\06.ForeignLanguages\\06.ForeignLanguages.csproj",
         "projectName": "06.ForeignLanguages",
-        "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\06.ForeignLanguages\\06.ForeignLanguages.csproj",
+        "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\06.ForeignLanguages\\06.ForeignLanguages.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\06.ForeignLanguages\\obj\\",
+        "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\06.ForeignLanguages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\09.SumОfOddNumbers\\09.SumОfOddNumbers.csproj",
+      "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09.SumОfOddNumbers\\09.SumОfOddNumbers.csproj",
       "projectName": "09.SumОfOddNumbers",
-      "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\09.SumОfOddNumbers\\09.SumОfOddNumbers.csproj",
+      "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09.SumОfOddNumbers\\09.SumОfOddNumbers.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\09.SumОfOddNumbers\\obj\\",
+      "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\09.SumОfOddNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

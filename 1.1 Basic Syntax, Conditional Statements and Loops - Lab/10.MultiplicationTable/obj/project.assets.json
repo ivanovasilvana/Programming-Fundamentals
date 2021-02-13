@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\10.MultiplicationTable\\10.MultiplicationTable.csproj",
+      "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10.MultiplicationTable\\10.MultiplicationTable.csproj",
       "projectName": "10.MultiplicationTable",
-      "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\10.MultiplicationTable\\10.MultiplicationTable.csproj",
+      "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10.MultiplicationTable\\10.MultiplicationTable.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\10.MultiplicationTable\\obj\\",
+      "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\10.MultiplicationTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

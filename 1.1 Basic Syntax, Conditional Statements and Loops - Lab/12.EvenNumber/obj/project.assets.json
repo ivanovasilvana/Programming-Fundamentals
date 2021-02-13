@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\12.EvenNumber\\12.EvenNumber.csproj",
+      "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\12.EvenNumber\\12.EvenNumber.csproj",
       "projectName": "12.EvenNumber",
-      "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\12.EvenNumber\\12.EvenNumber.csproj",
+      "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\12.EvenNumber\\12.EvenNumber.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\12.EvenNumber\\obj\\",
+      "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\12.EvenNumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\03.PassedOrFailed\\03.PassedOrFailed.csproj": {}
+    "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\03.PassedOrFailed\\03.PassedOrFailed.csproj": {}
   },
   "projects": {
-    "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\03.PassedOrFailed\\03.PassedOrFailed.csproj": {
+    "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\03.PassedOrFailed\\03.PassedOrFailed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\03.PassedOrFailed\\03.PassedOrFailed.csproj",
+        "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\03.PassedOrFailed\\03.PassedOrFailed.csproj",
         "projectName": "03.PassedOrFailed",
-        "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\03.PassedOrFailed\\03.PassedOrFailed.csproj",
+        "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\03.PassedOrFailed\\03.PassedOrFailed.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\03.PassedOrFailed\\obj\\",
+        "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\03.PassedOrFailed\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
