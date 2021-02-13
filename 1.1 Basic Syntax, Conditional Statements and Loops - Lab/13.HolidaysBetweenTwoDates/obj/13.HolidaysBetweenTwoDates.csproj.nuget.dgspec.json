@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj": {}
+    "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj": {}
   },
   "projects": {
-    "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj": {
+    "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj",
+        "projectUniqueName": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj",
         "projectName": "13.HolidaysBetweenTwoDates",
-        "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj",
+        "projectPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\13.HolidaysBetweenTwoDates\\13.HolidaysBetweenTwoDates.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\01.StudentInformation\\13.HolidaysBetweenTwoDates\\obj\\",
+        "outputPath": "C:\\СофтУни\\Programming-Fundamentals\\1.1 Basic Syntax, Conditional Statements and Loops - Lab\\13.HolidaysBetweenTwoDates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
