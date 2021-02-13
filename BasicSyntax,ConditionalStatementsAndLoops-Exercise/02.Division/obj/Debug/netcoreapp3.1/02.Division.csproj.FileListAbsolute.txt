@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\02.Division\bin\Debug\netcoreapp3.1\02.Division.exe
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\02.Division\bin\Debug\netcoreapp3.1\02.Division.deps.json
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\02.Division\bin\Debug\netcoreapp3.1\02.Division.runtimeconfig.json
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\02.Division\bin\Debug\netcoreapp3.1\02.Division.runtimeconfig.dev.json
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\02.Division\bin\Debug\netcoreapp3.1\02.Division.dll
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\02.Division\bin\Debug\netcoreapp3.1\02.Division.pdb
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\02.Division\obj\Debug\netcoreapp3.1\02.Division.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\02.Division\obj\Debug\netcoreapp3.1\02.Division.AssemblyInfo.cs
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\02.Division\obj\Debug\netcoreapp3.1\02.Division.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\02.Division\obj\Debug\netcoreapp3.1\02.Division.dll
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\02.Division\obj\Debug\netcoreapp3.1\02.Division.pdb
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\02.Division\obj\Debug\netcoreapp3.1\02.Division.genruntimeconfig.cache
