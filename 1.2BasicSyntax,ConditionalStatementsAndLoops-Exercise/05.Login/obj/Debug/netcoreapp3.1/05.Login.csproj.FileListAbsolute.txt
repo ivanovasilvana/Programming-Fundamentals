@@ -1,0 +1,13 @@
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.exe
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.deps.json
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.json
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.dev.json
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.dll
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.pdb
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.csprojAssemblyReference.cache
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfo.cs
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.dll
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.pdb
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.exe
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.deps.json
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.runtimeconfig.json
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.runtimeconfig.dev.json
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.dll
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.pdb
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.AssemblyInfoInputs.cache
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.AssemblyInfo.cs
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.csproj.CoreCompileInputs.cache
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.dll
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.pdb
+C:\СофтУни\Programming-Fundamentals\BasicSyntax,ConditionalStatementsAndLoops-Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.genruntimeconfig.cache
