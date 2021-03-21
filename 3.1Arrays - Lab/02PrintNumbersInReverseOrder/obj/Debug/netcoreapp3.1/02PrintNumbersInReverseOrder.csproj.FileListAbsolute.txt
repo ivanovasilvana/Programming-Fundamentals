@@ -1,0 +1,12 @@
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\3.1Arrays - Lab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.exe
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\3.1Arrays - Lab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\3.1Arrays - Lab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\3.1Arrays - Lab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\3.1Arrays - Lab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.dll
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\3.1Arrays - Lab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.pdb
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\3.1Arrays - Lab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\3.1Arrays - Lab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\3.1Arrays - Lab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\3.1Arrays - Lab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.dll
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\3.1Arrays - Lab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.pdb
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\3.1Arrays - Lab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.genruntimeconfig.cache
