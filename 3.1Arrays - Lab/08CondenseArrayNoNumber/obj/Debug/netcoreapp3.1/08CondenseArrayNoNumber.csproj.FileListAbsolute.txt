@@ -1,0 +1,12 @@
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\08CondenseArrayNoNumber\bin\Debug\netcoreapp3.1\08CondenseArrayNoNumber.exe
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\08CondenseArrayNoNumber\bin\Debug\netcoreapp3.1\08CondenseArrayNoNumber.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\08CondenseArrayNoNumber\bin\Debug\netcoreapp3.1\08CondenseArrayNoNumber.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\08CondenseArrayNoNumber\bin\Debug\netcoreapp3.1\08CondenseArrayNoNumber.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\08CondenseArrayNoNumber\bin\Debug\netcoreapp3.1\08CondenseArrayNoNumber.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\08CondenseArrayNoNumber\bin\Debug\netcoreapp3.1\08CondenseArrayNoNumber.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\08CondenseArrayNoNumber\obj\Debug\netcoreapp3.1\08CondenseArrayNoNumber.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\08CondenseArrayNoNumber\obj\Debug\netcoreapp3.1\08CondenseArrayNoNumber.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\08CondenseArrayNoNumber\obj\Debug\netcoreapp3.1\08CondenseArrayNoNumber.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\08CondenseArrayNoNumber\obj\Debug\netcoreapp3.1\08CondenseArrayNoNumber.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\08CondenseArrayNoNumber\obj\Debug\netcoreapp3.1\08CondenseArrayNoNumber.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\08CondenseArrayNoNumber\obj\Debug\netcoreapp3.1\08CondenseArrayNoNumber.genruntimeconfig.cache
