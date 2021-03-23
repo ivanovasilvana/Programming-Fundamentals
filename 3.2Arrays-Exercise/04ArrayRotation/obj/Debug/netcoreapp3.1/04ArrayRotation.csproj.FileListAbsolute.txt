@@ -1,0 +1,13 @@
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\bin\Debug\netcoreapp3.1\04ArrayRotation.exe
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\bin\Debug\netcoreapp3.1\04ArrayRotation.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\bin\Debug\netcoreapp3.1\04ArrayRotation.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\bin\Debug\netcoreapp3.1\04ArrayRotation.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\bin\Debug\netcoreapp3.1\04ArrayRotation.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\bin\Debug\netcoreapp3.1\04ArrayRotation.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.csprojAssemblyReference.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\04ArrayRotation\obj\Debug\netcoreapp3.1\04ArrayRotation.genruntimeconfig.cache
