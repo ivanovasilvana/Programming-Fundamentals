@@ -1,0 +1,12 @@
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArrays.exe
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArrays.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArrays.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArrays.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArrays.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArrays.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArrays.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArrays.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArrays.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArrays.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArrays.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArrays.genruntimeconfig.cache
