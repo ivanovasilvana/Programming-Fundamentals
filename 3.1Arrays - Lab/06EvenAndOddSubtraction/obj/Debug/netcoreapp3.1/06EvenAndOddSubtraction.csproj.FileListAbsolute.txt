@@ -1,0 +1,12 @@
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\06EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06EvenAndOddSubtraction.exe
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\06EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06EvenAndOddSubtraction.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\06EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06EvenAndOddSubtraction.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\06EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06EvenAndOddSubtraction.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\06EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06EvenAndOddSubtraction.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\06EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06EvenAndOddSubtraction.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\06EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\06EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06EvenAndOddSubtraction.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\06EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\06EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06EvenAndOddSubtraction.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\06EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06EvenAndOddSubtraction.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\06EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06EvenAndOddSubtraction.genruntimeconfig.cache

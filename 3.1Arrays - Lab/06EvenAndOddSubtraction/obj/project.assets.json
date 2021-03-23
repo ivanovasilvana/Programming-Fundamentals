@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\3.1Arrays - Lab\\01DayOfWeek.csproj",
-      "projectName": "01DayOfWeek",
-      "projectPath": "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\3.1Arrays - Lab\\01DayOfWeek.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\06EvenAndOddSubtraction\\06EvenAndOddSubtraction.csproj",
+      "projectName": "06EvenAndOddSubtraction",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\06EvenAndOddSubtraction\\06EvenAndOddSubtraction.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\3.1Arrays - Lab\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\06EvenAndOddSubtraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
