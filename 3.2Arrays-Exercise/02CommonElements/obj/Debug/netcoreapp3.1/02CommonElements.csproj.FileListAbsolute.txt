@@ -1,0 +1,13 @@
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\bin\Debug\netcoreapp3.1\02CommonElements.exe
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\bin\Debug\netcoreapp3.1\02CommonElements.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\bin\Debug\netcoreapp3.1\02CommonElements.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\bin\Debug\netcoreapp3.1\02CommonElements.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\bin\Debug\netcoreapp3.1\02CommonElements.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\bin\Debug\netcoreapp3.1\02CommonElements.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.csprojAssemblyReference.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.genruntimeconfig.cache
