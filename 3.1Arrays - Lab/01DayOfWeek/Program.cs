@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _3._1Arrays___Lab
+namespace _01DayOfWeek
 {
     class Program
     {

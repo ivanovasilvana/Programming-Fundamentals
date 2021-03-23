@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_01DayOfWeek</RootNamespace>
+    <RootNamespace>_03RoundingNumbers</RootNamespace>
   </PropertyGroup>
 
 </Project>

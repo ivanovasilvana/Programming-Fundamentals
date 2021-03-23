@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\3.1Arrays - Lab\\3.1Arrays - Lab.csproj": {}
+    "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\3.1Arrays - Lab\\01DayOfWeek.csproj": {}
   },
   "projects": {
-    "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\3.1Arrays - Lab\\3.1Arrays - Lab.csproj": {
+    "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\3.1Arrays - Lab\\01DayOfWeek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\3.1Arrays - Lab\\3.1Arrays - Lab.csproj",
-        "projectName": "3.1Arrays - Lab",
-        "projectPath": "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\3.1Arrays - Lab\\3.1Arrays - Lab.csproj",
+        "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\3.1Arrays - Lab\\01DayOfWeek.csproj",
+        "projectName": "01DayOfWeek",
+        "projectPath": "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\3.1Arrays - Lab\\01DayOfWeek.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\СофтУни\\C#\\Programming-Fundamentals\\3.1Arrays - Lab\\3.1Arrays - Lab\\obj\\",
         "projectStyle": "PackageReference",
