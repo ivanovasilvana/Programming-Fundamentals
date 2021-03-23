@@ -1,0 +1,12 @@
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\05SumEvenNumbers\bin\Debug\netcoreapp3.1\05SumEvenNumbers.exe
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\05SumEvenNumbers\bin\Debug\netcoreapp3.1\05SumEvenNumbers.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\05SumEvenNumbers\bin\Debug\netcoreapp3.1\05SumEvenNumbers.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\05SumEvenNumbers\bin\Debug\netcoreapp3.1\05SumEvenNumbers.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\05SumEvenNumbers\bin\Debug\netcoreapp3.1\05SumEvenNumbers.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\05SumEvenNumbers\bin\Debug\netcoreapp3.1\05SumEvenNumbers.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\05SumEvenNumbers\obj\Debug\netcoreapp3.1\05SumEvenNumbers.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\05SumEvenNumbers\obj\Debug\netcoreapp3.1\05SumEvenNumbers.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\05SumEvenNumbers\obj\Debug\netcoreapp3.1\05SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\05SumEvenNumbers\obj\Debug\netcoreapp3.1\05SumEvenNumbers.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\05SumEvenNumbers\obj\Debug\netcoreapp3.1\05SumEvenNumbers.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.1Arrays - Lab\05SumEvenNumbers\obj\Debug\netcoreapp3.1\05SumEvenNumbers.genruntimeconfig.cache
