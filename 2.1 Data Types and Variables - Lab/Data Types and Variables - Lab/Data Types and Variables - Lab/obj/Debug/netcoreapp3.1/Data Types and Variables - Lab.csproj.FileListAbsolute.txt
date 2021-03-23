@@ -1,0 +1,13 @@
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\netcoreapp3.1\Data Types and Variables - Lab.exe
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\netcoreapp3.1\Data Types and Variables - Lab.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\netcoreapp3.1\Data Types and Variables - Lab.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\netcoreapp3.1\Data Types and Variables - Lab.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\netcoreapp3.1\Data Types and Variables - Lab.dll
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\netcoreapp3.1\Data Types and Variables - Lab.pdb
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\Data Types and Variables - Lab.csprojAssemblyReference.cache
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\Data Types and Variables - Lab.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\Data Types and Variables - Lab.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\Data Types and Variables - Lab.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\Data Types and Variables - Lab.dll
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\Data Types and Variables - Lab.pdb
+C:\СофтУни\C#\Programming-Fundamentals\2.1 Data Types and Variables - Lab\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\Data Types and Variables - Lab.genruntimeconfig.cache
