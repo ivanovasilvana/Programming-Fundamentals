@@ -1,0 +1,13 @@
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\bin\Debug\netcoreapp3.1\03Zig-ZagArrays.exe
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\bin\Debug\netcoreapp3.1\03Zig-ZagArrays.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\bin\Debug\netcoreapp3.1\03Zig-ZagArrays.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\bin\Debug\netcoreapp3.1\03Zig-ZagArrays.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\bin\Debug\netcoreapp3.1\03Zig-ZagArrays.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\bin\Debug\netcoreapp3.1\03Zig-ZagArrays.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.csprojAssemblyReference.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.genruntimeconfig.cache
