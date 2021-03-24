@@ -1,0 +1,13 @@
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.exe
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.csprojAssemblyReference.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.genruntimeconfig.cache
