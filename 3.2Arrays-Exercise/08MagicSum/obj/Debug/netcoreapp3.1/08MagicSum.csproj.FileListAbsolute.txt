@@ -1,0 +1,12 @@
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\08MagicSum\bin\Debug\netcoreapp3.1\08MagicSum.exe
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\08MagicSum\bin\Debug\netcoreapp3.1\08MagicSum.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\08MagicSum\bin\Debug\netcoreapp3.1\08MagicSum.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\08MagicSum\bin\Debug\netcoreapp3.1\08MagicSum.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\08MagicSum\bin\Debug\netcoreapp3.1\08MagicSum.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\08MagicSum\bin\Debug\netcoreapp3.1\08MagicSum.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\08MagicSum\obj\Debug\netcoreapp3.1\08MagicSum.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\08MagicSum\obj\Debug\netcoreapp3.1\08MagicSum.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\08MagicSum\obj\Debug\netcoreapp3.1\08MagicSum.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\08MagicSum\obj\Debug\netcoreapp3.1\08MagicSum.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\08MagicSum\obj\Debug\netcoreapp3.1\08MagicSum.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\08MagicSum\obj\Debug\netcoreapp3.1\08MagicSum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\bin\Debug\netcoreapp3.1\05TopIntegers.exe
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\bin\Debug\netcoreapp3.1\05TopIntegers.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\bin\Debug\netcoreapp3.1\05TopIntegers.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\bin\Debug\netcoreapp3.1\05TopIntegers.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\bin\Debug\netcoreapp3.1\05TopIntegers.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\bin\Debug\netcoreapp3.1\05TopIntegers.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\obj\Debug\netcoreapp3.1\05TopIntegers.csprojAssemblyReference.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\obj\Debug\netcoreapp3.1\05TopIntegers.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\obj\Debug\netcoreapp3.1\05TopIntegers.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\obj\Debug\netcoreapp3.1\05TopIntegers.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\obj\Debug\netcoreapp3.1\05TopIntegers.dll
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\obj\Debug\netcoreapp3.1\05TopIntegers.pdb
+C:\СофтУни\C#\Programming-Fundamentals\3.2Arrays-Exercise\05TopIntegers\obj\Debug\netcoreapp3.1\05TopIntegers.genruntimeconfig.cache
