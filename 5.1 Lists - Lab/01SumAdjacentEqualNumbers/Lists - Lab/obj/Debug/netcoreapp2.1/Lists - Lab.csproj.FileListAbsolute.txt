@@ -1,0 +1,11 @@
+C:\СофтУни\C#\Programming-Fundamentals\5.1 Lists - Lab\01SumAdjacentEqualNumbers\Lists - Lab\bin\Debug\netcoreapp2.1\Lists - Lab.deps.json
+C:\СофтУни\C#\Programming-Fundamentals\5.1 Lists - Lab\01SumAdjacentEqualNumbers\Lists - Lab\bin\Debug\netcoreapp2.1\Lists - Lab.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals\5.1 Lists - Lab\01SumAdjacentEqualNumbers\Lists - Lab\bin\Debug\netcoreapp2.1\Lists - Lab.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals\5.1 Lists - Lab\01SumAdjacentEqualNumbers\Lists - Lab\bin\Debug\netcoreapp2.1\Lists - Lab.dll
+C:\СофтУни\C#\Programming-Fundamentals\5.1 Lists - Lab\01SumAdjacentEqualNumbers\Lists - Lab\bin\Debug\netcoreapp2.1\Lists - Lab.pdb
+C:\СофтУни\C#\Programming-Fundamentals\5.1 Lists - Lab\01SumAdjacentEqualNumbers\Lists - Lab\obj\Debug\netcoreapp2.1\Lists - Lab.csprojAssemblyReference.cache
+C:\СофтУни\C#\Programming-Fundamentals\5.1 Lists - Lab\01SumAdjacentEqualNumbers\Lists - Lab\obj\Debug\netcoreapp2.1\Lists - Lab.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\5.1 Lists - Lab\01SumAdjacentEqualNumbers\Lists - Lab\obj\Debug\netcoreapp2.1\Lists - Lab.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals\5.1 Lists - Lab\01SumAdjacentEqualNumbers\Lists - Lab\obj\Debug\netcoreapp2.1\Lists - Lab.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals\5.1 Lists - Lab\01SumAdjacentEqualNumbers\Lists - Lab\obj\Debug\netcoreapp2.1\Lists - Lab.dll
+C:\СофтУни\C#\Programming-Fundamentals\5.1 Lists - Lab\01SumAdjacentEqualNumbers\Lists - Lab\obj\Debug\netcoreapp2.1\Lists - Lab.pdb
